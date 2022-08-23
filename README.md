@@ -6,9 +6,9 @@ We are here with a compact data to study about the hotel industry, mainly the bo
 
 By the end we will conclude the study with following insights:-
 
-Best time for booking
-Optimal duration to travel
-Distribution Segment and market segments to be focused to increase revenue
-Factors leading to cancellation which affects the revenue.
-Factors like meals, special requests which might affect in the increase of ADR.
+* Best time for booking
+* Optimal duration to travel
+* Distribution Segment and market segments to be focused to increase revenue
+* Factors leading to cancellation which affects the revenue.
+* Factors like meals, special requests which might affect in the increase of ADR.
 
