@@ -89,6 +89,10 @@ Geo Mapping.
 
 # 4. Analysing and sharing the conclusions
 
+* City Hotels are the most preferred hotel by guests. 
+* Even though the booking made in City hotel are greater than the resort hotel, almost double but the revenue by city hotel is not so high. This shows that Resort hotels are bit expensive and receive less cancellation than City hotels.
+* As lead time increases the ADR decreases. This means if a customer  book a hotel in advance, he can get a better deal.
+* As length of total stay increases, adr decreases. This means for longer stay, the better deal for customers can be finalized.
 * Majority of people prefer A-room type so hotels should increase their numbers to get more revenue.
 * Chances of cancellation is high when there are no deposits taken by hotels, so hotels should take minimum deposits to minimise the rate of cancellation.
 * Transient customers cancels more often but when people book in groups it leads to lesser cancellations, hence hotels should provide some offers focusing transient customers to decrease cancellations.
