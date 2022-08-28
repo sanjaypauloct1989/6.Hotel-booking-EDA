@@ -38,7 +38,9 @@ Here start find the abnormality in the data i.e. Null values, missing values, Na
 ## Data Cleaning
 ###   a. Handling Null Values
 Company Id and Agent Id: - These columns have null values of 93% and 15% respectively. Hence, these columns are dropped.
+
 Country: - This has null values less than 5% thus the null values are filled with the mode value.
+
 Children and babies: - There are only 4 null values so the null value is filled with mean
  
 ###   b. Handling Outliers
@@ -47,18 +49,21 @@ We have used the Interquartile range method to handle outliers.
 
 ## Data Manipulation: - Creating new variable/columns by combining other two columns for an effective study i.e.
 Kids= Children +babies
+
 Total stay= stays_in_weekend_nights+ stays_in_week_nights
+
 Guest= Adults+kids
+
 Revenue= stay of non-cancelled guests * ADR
 
-##Data study
-###i) UNIVARIATE ANALYSIS: 
+## Data study
+### i) UNIVARIATE ANALYSIS: 
 Univariate analysis is the simplest form of analyzing data i.e study of one variable. Its major purpose is to describe; distribution of single data, and find patterns in the data.
 
-###ii) BIVARIATE ANALYSIS:
+### ii) BIVARIATE ANALYSIS:
 Bivariate analysis between two variables. One of the variables will be dependent and the other is independent. The study is analyzed between the two variables to understand to what extent the change has occurred.
 
-###iii) MULTIVARIATE ANALYSIS
+### iii) MULTIVARIATE ANALYSIS
 Multivariate data analysis is the study of relationships among the attributes, classify the collected samples into homogeneous groups, and make inferences about the underlying populations from the sample.
 
 
@@ -69,11 +74,17 @@ Data Visualization :-
 Data visualization is the practice of translating information into a visual context, such as a map or graph, to make it easier to understand and gain insights from them. 
 The graphs used here for study are: -
 Box Plot.
+
 Histogram.
+
 Pie Chart.
+
 Bar Plot.
+
 Line Plot.
+
 Scatter Plot.
+
 Geo Mapping.
 
 
