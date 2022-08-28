@@ -18,7 +18,7 @@ By the end we will conclude the study with following insights:-
 ## Workflow
 
 1. Understanding problem statement and Raw data 
-2. Exploratory Data Analysis i.e. Data wrangling, cleaning, manupulation.
+2. Exploratory Data Analysis i.e. Data wrangling, cleaning, manupulation, data study.
 3. Data Visualization
 4. Analysing and sharing the conclusions
 
@@ -69,10 +69,9 @@ Multivariate data analysis is the study of relationships among the attributes, c
 
 # 3. Data Visualization
 
-Data Visualization :-
-
 Data visualization is the practice of translating information into a visual context, such as a map or graph, to make it easier to understand and gain insights from them. 
 The graphs used here for study are: -
+
 Box Plot.
 
 Histogram.
@@ -88,5 +87,12 @@ Scatter Plot.
 Geo Mapping.
 
 
+# 4. Analysing and sharing the conclusions
 
+* Majority of people prefer A-room type so hotels should increase their numbers to get more revenue.
+* Chances of cancellation is high when there are no deposits taken by hotels, so hotels should take minimum deposits to minimise the rate of cancellation.
+* Transient customers cancels more often but when people book in groups it leads to lesser cancellations, hence hotels should provide some offers focusing transient customers to decrease cancellations.
+* Maximum number of bookings are in the month May to August, so hotels should provide exciting deal to customers to increase their booking in off season. 
+* As hotels are getting less repeated customers so management should take customer’s feedback and improve the hotel facilities to increase the count of their repeated guests.
+* We have a huge number of visitors from  western Europe namely Portugal, France, UK and same countries generate highest revenue. So marketing teams should target these countries to get more customers.
 
